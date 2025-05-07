@@ -1,9 +1,9 @@
 # 2025_Agent_club
 這是國泰產險 數據部 AI Agent讀書會的知識庫，如果有任何問題請與籌辦團隊聯繫
-- [tylin](https://github.com/tylin30)
-- [bobcchuang](https://github.com/bobcchuang)
+- [Amice](https://github.com/tylin30)
+- [Bbob](https://github.com/bobcchuang)
 - [Lorrin](https://github.com/nlchen510)
-- Patty
+- [Patty](https://github.com/yunru0804)
 
 ## 目標
 - 掌握 AI Agent 的核心原理與技術組成。
